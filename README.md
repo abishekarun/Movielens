@@ -1,6 +1,6 @@
 ## Movielens Dataset
 
-In this project, we try to work on [Movielens dataset](https://grouplens.org/datasets/movielens/). This project was used to explore different types of recommendation models in jupyter notebook. The project follows this [book](https://github.com/abishekarun/Movielens/blob/master/Collective_Intelligence.ipynb)
+In this project, we try to work on [Movielens dataset](https://grouplens.org/datasets/movielens/). This project was used to explore different types of recommendation models in jupyter notebook. The project follows this [book](https://github.com/abishekarun/Movielens/blob/master/Collective_Intelligence.pdf).
 
 The final jupyter notebook is [here](https://github.com/abishekarun/Movielens/blob/master/recommendations.ipynb) for this project.
 
